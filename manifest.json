@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-media-db-plugin",
-	"name": "Media DB",
-	"version": "0.6.0",
+	"id": "obsidian-trakt-history",
+	"name": "Trakt History Importer",
+	"version": "0.1.0",
 	"minAppVersion": "1.5.0",
-	"description": "A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.",
-	"author": "Moritz Jung",
-	"authorUrl": "https://www.moritzjung.dev",
+	"description": "A plugin that pulls history from Trakt into your vault, either to the DNP or its own note",
+	"author": "Dave Lawson",
+	"authorUrl": "https://github.com/dropcase",
 	"isDesktopOnly": false
 }

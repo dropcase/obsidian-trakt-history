@@ -23,9 +23,9 @@
 	"author": "Moritz Jung",
 	"license": "GPL-3.0",
 	"devDependencies": {
-		"@popperjs/core": "^2.11.8",
-		"@lemons_dev/parsinom": "^0.0.12",
 		"@happy-dom/global-registrator": "^14.3.6",
+		"@lemons_dev/parsinom": "^0.0.12",
+		"@popperjs/core": "^2.11.8",
 		"@tsconfig/svelte": "^5.0.3",
 		"@types/bun": "^1.0.10",
 		"@typescript-eslint/eslint-plugin": "^7.3.1",
